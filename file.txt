@@ -1,0 +1,2 @@
+start typing This is really basic text editor but I feel like things might change as time progress
+This line should dissappear
